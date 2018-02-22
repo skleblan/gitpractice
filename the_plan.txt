@@ -1,0 +1,8 @@
+feb 22
+just had an idea
+will create a separate branch for different users
+each user works on separate branch
+then merges in with master when at a stable point
+user-branches need to remember to merge from master periodically
+(or whenever another user merges into master)
+
