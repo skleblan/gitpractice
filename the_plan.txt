@@ -7,12 +7,12 @@ user-branches need to remember to merge from master periodically
 (or whenever another user merges into master)
 
 other ideas
-list of avengers members at the point of each avengers movie
-list of xmen members at each movie
+(taken)list of avengers members at the point of each avengers movie
+(taken)list of xmen members at each movie
 list of star wars characters
 list of months in english and spanish
 list of days of week in english and spanish
 create stories in spanish to practice composition
-list of presidents
+(taken)list of presidents
 list of roman emperors (as best as can remember)
 list of pokemon
