@@ -1,14 +1,14 @@
 washington, george
-adams
-jefersson
-madison
-monroe
+adams, john
+jefersson, thomas
+madison, james
+monroe, james
 
-adams
-jackson
-van buren
-harison
-tyler
+adams, john quincy
+jackson, andrew
+van buren, martin
+harrison, ????
+tyler, ????
 
 polk
 pierce
